@@ -23,4 +23,12 @@ For example, the Windows Store. Its stability and user experience are just like 
 1. The xaml label character is very long.
 2. The redundancy is very high.Both tags and attributes.
 3. This directly leads to very poor readability.and increases the cost of writing.
-4. increase the size of the ui definition file.
+4. Increase the size of the ui definition file.
+5. Many xmlns. It's very confusing.
+
+
+In conclusion, XAML has been around for more than ten years.
+The problems I have listed have almost always existed, but XAML has not been significantly improved.
+XAML technology is applied to WPF, SliverLight, UWP, WinUI, MAUI, etc.
+But I think that due to its own flaws, it will be destined to be unpopular.
+And it will eventually fail.
