@@ -20,7 +20,7 @@ For example, the Windows Store. Its stability and user experience are just like 
 
 
 ## XAML itself is very badly designed.The style declaration has the same problem. When this grammar is compared with html and css, you will find that the XAML defined by Microsoft is simply rubbish.
-1. The xaml label character is very long. increases the cost of writing,sacrifices readability.
+1. The xaml label character is very long.
 2. The redundancy is very high.Both tags and attributes.
-3. This directly leads to very poor readability.
+3. This directly leads to very poor readability.and increases the cost of writing.
 4. increase the size of the ui definition file.
