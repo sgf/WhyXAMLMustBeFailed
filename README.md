@@ -19,7 +19,8 @@ For example, the Windows Store. Its stability and user experience are just like 
 
 
 
-## The xaml label character is very long. The redundancy is very high.
-This directly leads to very poor readability.
-In addition to the problem of the label itself. The style declaration has the same problem. When this grammar is compared with html and css, you will find that the XAML defined by Microsoft is simply rubbish.
-Redundant tags and attributes, redundant styles, this not only increases the cost of writing, but also sacrifices readability. And increase the size of the ui definition file.
+## XAML itself is very badly designed.The style declaration has the same problem. When this grammar is compared with html and css, you will find that the XAML defined by Microsoft is simply rubbish.
+1. The xaml label character is very long. increases the cost of writing,sacrifices readability.
+2. The redundancy is very high.Both tags and attributes.
+3. This directly leads to very poor readability.
+4. increase the size of the ui definition file.
