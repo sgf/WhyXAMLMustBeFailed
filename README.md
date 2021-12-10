@@ -1,5 +1,6 @@
 # WhyXAMLMustBeFailed
 Criticize Microsoft's XAML .
+This article only represents my personal opinion.
 
 ## low response speed.
 1. dev tools slow.
