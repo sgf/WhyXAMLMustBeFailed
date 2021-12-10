@@ -33,3 +33,6 @@ The problems I have listed have almost always existed, but XAML has not been sig
 XAML technology is applied to WPF, SliverLight, UWP, WinUI, MAUI, etc.
 But I think that due to its own flaws, it will be destined to be unpopular.
 And it will eventually fail.
+
+
+All derived technologies based on XAML, UI libraries. None will become mainstream. Because they all have a seriously flawed design-XAML.
