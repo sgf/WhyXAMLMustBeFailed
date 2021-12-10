@@ -6,9 +6,18 @@ Criticize Microsoft's XAML .
 2. application slow,like SliverLight,WPF,UWP
 	
 ## poor stability.
-The official Microsoft Windows application is very unstable. It often crashes for several years, or the application cannot be used, the layout is abnormal, and the input is abnormal.
-just look at the Microsoft's Official application.
+The official Microsoft Windows application is very unstable. 
 For example, the Windows Store. Its stability and user experience are just like shit, and it lasts for several years without any significant improvement.
+1. often crashes.
+2. Unable to start.
+3. cannot be used.
+4. ayout is abnormal.
+5. input is abnormal.
+6. No results for the search.
+7. The installation failed halfway through.
+8. Application White screen.
+
+
 
 ## The xaml label character is very long. The redundancy is very high.
 This directly leads to very poor readability.
