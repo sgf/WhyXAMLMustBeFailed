@@ -12,7 +12,7 @@ For example, the Windows Store. Its stability and user experience are just like 
 1. often crashes.
 2. Unable to start.
 3. cannot be used.
-4. ayout is abnormal.
+4. layout is abnormal.
 5. input is abnormal.
 6. No results for the search.
 7. The installation failed halfway through.
